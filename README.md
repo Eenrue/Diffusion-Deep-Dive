@@ -7,6 +7,8 @@ We aim to complement the original lecture slides with:
 - Additional explanations for challenging concepts.
 - Comprehensive mathematical details.
 
+This repository is created solely for **educational purposes** and has no commercial intent. It is designed to assist students and researchers in better understanding diffusion models by providing accessible and well-organized materials.
+
 ### Current and Future Plans
 
 We are committed to expanding this repository to include the following resources:
