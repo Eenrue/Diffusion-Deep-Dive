@@ -18,7 +18,7 @@ We are committed to expanding this repository to include the following resources
 ### To-Do List
 
 - [ ] Upload all **Extra DDD Slides**.
-- [ ] Add solutions to existing assignments and upload **Extra Assignments**.
+- [ ] Add solutions to existing assignments and upload **Extra Codes for Understanding**.
 - [ ] Publish lecture recordings.
 
 Stay tuned for updates, and feel free to contribute or provide feedback to help improve this repository!
