@@ -12,7 +12,7 @@ We aim to complement the original lecture slides with:
 We are committed to expanding this repository to include the following resources:
 
 1. Upload **Extra DDD (Diffusion Deep Dive) Slides**: Enhanced versions of the original slides with more details and insights.
-2. Provide **Assignment Solutions** and **Extra Assignments**: Detailed solutions to existing assignments and additional tasks for deeper exploration.
+2. Provide **Assignment Solutions** and **Extra Codes**: Detailed solutions to existing assignments and additional codes for deeper exploration.
 3. Share **Lecture Recordings**: Video materials for students to review or learn at their own pace.
 
 ### To-Do List
